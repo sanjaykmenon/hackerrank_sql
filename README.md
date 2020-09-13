@@ -1,0 +1,2 @@
+# hackerrank_sql
+HackerRank_sql_challenges
